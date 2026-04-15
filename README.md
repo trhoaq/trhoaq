@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Truong Van Hoang</h1>
 
-<!--
-**trhoaq/trhoaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```JSX
+trhoaq (
+  fullName: "Truong Van Hoang",
+  skill: "AI Engineer/Embedded Engineer"
+  bornOn: "2006",
+  location: ["Ha Noi"],
+  someProjects: ["agentic-researcher", "FloodWiz"],
+  interests: [
+      languages: ["typescript", "javascript", "java", "c/c++", "python"],
+      technologies: ["docker", "redis", "websocket", "mqtt", "..."],
+      database: ["postgresql"]
+  ],
+  contacts: {
+      email: ["hoangphi.wordcite.zaun@gmail.com"]
+  }
+)
+```
